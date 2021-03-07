@@ -1,3 +1,2 @@
-# C-sharp-
-Estudando c-sharp completo
+# C-sharp
 Exercicios .NET/C#
